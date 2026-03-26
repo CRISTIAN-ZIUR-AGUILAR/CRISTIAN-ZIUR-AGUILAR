@@ -11,6 +11,7 @@ I’m looking to collaborate on open-source projects and contribute to software 
 
 ## 📫 How to Reach Me
 You can reach me through the following channels:
+www.linkedin.com/in/cristian-ruiz-1591063ba
 
 
 ## 😄 Pronouns
