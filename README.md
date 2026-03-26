@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @CRISTIAN-ZIUR-AGUILAR
 
 ## 👀 About Me
-I’m a passionate software developer with a keen interest in programming and application development. I am currently diving into various programming languages and technologies to enhance my skills and build robust software solutions.
+Soy un desarrollador de software en formación con experiencia práctica en desarrollo de aplicaciones móviles multiplataforma, integración de bases de datos e inteligencia artificial. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos en proyectos que resuelvan problemas reales de manera eficiente y creativa.
 
 ## 🌱 Current Learning
-I’m currently learning about application development, including different programming paradigms, frameworks, and tools. I am focused on mastering languages like dart, java, and exploring frameworks such as React and Angular.
+Actualmente estoy profundizando en Flutter y Dart para desarrollo multiplataforma (Android y Web) y en Ionic con MongoDB para aplicaciones híbridas. También continúo fortaleciendo mis conocimientos en Java, C# y Kotlin, así como en frameworks y herramientas de desarrollo frontend y backend.
 
 ## 💞️ Collaboration
-I’m looking to collaborate on open-source projects and contribute to software development teams. If you have exciting projects or ideas, feel free to reach out—I’m always eager to learn and collaborate!
+Me interesa participar en proyectos donde pueda aplicar mis habilidades en desarrollo móvil, integración de APIs y manejo de datos, así como aprender de equipos con experiencia. Si tienes un proyecto interesante o quieres colaborar, no dudes en contactarme.
 
 ## 📫 How to Reach Me
 You can reach me through the following channels:
@@ -18,7 +18,7 @@ www.linkedin.com/in/cristian-ruiz-1591063ba
 He/Him
 
 ## ⚡ Fun Fact
-I love solving complex problems and turning them into elegant, functional code. When I’m not coding, you might find me exploring new technologies or indulging in a good sci-fi novel.
+Disfruto resolver problemas complejos y transformar ideas en código funcional. Cuando no estoy programando, me gusta explorar nuevas tecnologías y experimentar con soluciones de software innovadoras.
 
 <!---
 CRISTIAN-ZIUR-AGUILAR/CRISTIAN-ZIUR-AGUILAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
