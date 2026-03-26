@@ -4,7 +4,7 @@
 I’m a passionate software developer with a keen interest in programming and application development. I am currently diving into various programming languages and technologies to enhance my skills and build robust software solutions.
 
 ## 🌱 Current Learning
-I’m currently learning about application development, including different programming paradigms, frameworks, and tools. I am focused on mastering languages like Python, JavaScript, and exploring frameworks such as React and Angular.
+I’m currently learning about application development, including different programming paradigms, frameworks, and tools. I am focused on mastering languages like dart, java, and exploring frameworks such as React and Angular.
 
 ## 💞️ Collaboration
 I’m looking to collaborate on open-source projects and contribute to software development teams. If you have exciting projects or ideas, feel free to reach out—I’m always eager to learn and collaborate!
